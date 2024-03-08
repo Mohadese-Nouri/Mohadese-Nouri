@@ -15,7 +15,7 @@
 
 •	🔭 I'm looking to collaborate on beginner-friendly data analysis projects with python to practice and expand my skills.
 
-•	📫  Let's connect! Reach me through my GitHub profile or email [Mhds.nouri739@gmail.com] for any coding tips, or collaboration opportunities!
+•	📫  Let's connect! Reach out to me via my GitHub profile or email [Mhds.nouri739@gmail.com] for any coding tips, or collaboration opportunities!
 
 •	😄 Excited to be a part of the coding community.🌟
 
